@@ -1,6 +1,6 @@
 {
-  "name": "node-red-contrib-easy-oracle",
-  "version": "1.0.2",
+  "name": "node-red-contrib-pool-oracle",
+  "version": "1.0.0",
   "description": "Easy to use Node-RED oracle database nodes",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "license": "MIT",
   "node-red": {
     "nodes": {
-      "easy-oracle": "easy-oracle/easy-oracle.js"
+      "easy-oracle": "pool-oracle/pool-oracle.js"
     }
   },
   "dependencies": {
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/harp-code/node-red-contrib-easy-oracle.git"
+    "url": "https://github.com/telushealth/node-red-contrib-pool-oracle.git"
   }
 }
